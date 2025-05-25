@@ -1,3 +1,6 @@
+"use client";
+import type { JSX } from "react";
+
 import AboutTab from "../groupDetails/AboutTab";
 import ConnectionsTab from "../groupDetails/ConnectionsTab";
 import FeedTab from "../groupDetails/FeedTab";
